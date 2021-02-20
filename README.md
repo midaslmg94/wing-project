@@ -1,5 +1,3 @@
-![image-20200701155008066](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701155008066.png)
-
 # wing-project
 
 >  클라우드 기반 마이크로 서비스 전문가 양성 과정 A반 3조 - 노말(NoTalk) 
@@ -72,17 +70,14 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 - 마이크로서비스 아키텍처
 - Restful API 
-- 
+
+  
 
 
 
 ## 로드맵
 
-
-
-![image-20200701153032189](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701153032189.png)
-
-
+![image-20210220192308576](images/image-20210220192308576.png)
 
 
 
@@ -90,9 +85,7 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 ## Monolithic to Microservice Migration
 
-![image-20200701151729295](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701151729295.png)
-
-
+![image-20210220192410049](images/image-20210220192410049.png)
 
 
 
@@ -100,7 +93,7 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 ## **Microservice** **Architecture & DevOps Pipeline**
 
-![image-20200701151822063](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701151822063.png)
+![image-20210220192432936](images/image-20210220192432936.png)
 
 
 
@@ -110,33 +103,47 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 #### 유저 로그인 서비스
 
-![image-20200701153217015](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701153217015.png)
+![image-20210220192447250](images/image-20210220192447250.png)
+
+
+
+<br>
 
 
 
 #### 스트리밍 서비스
 
-![image-20200701153251055](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701153251055.png)
+![image-20210220192512461](images/image-20210220192512461.png)
+
+
+
+<br>
 
 
 
 #### 후원 서비스
 
-![image-20200701153340821](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701153340821.png)
+![image-20210220192538580](images/image-20210220192538580.png)
+
+
+
+<br>
 
 
 
 #### 라이브 & 채팅 서비스
 
-![image-20200701153422079](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701153422079.png)
+![image-20210220192556537](images/image-20210220192556537.png)
+
+
+
+<br>
 
 
 
 #### 콘서트 서비스
 
-![image-20200701153444681](C:\Users\midas\AppData\Roaming\Typora\typora-user-images\image-20200701153444681.png)
-
-
+![image-20210220192611772](images/image-20210220192611772.png)
 
 
 
