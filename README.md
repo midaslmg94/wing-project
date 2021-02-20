@@ -16,7 +16,7 @@ Win:G란 뮤지션들에게 날개를 달아준다는 뜻의 Wing과 목표를 �
 
 인디 뮤지션들이 편향된 음악 시장에서 음악 활동을 하면서 어려움을 느낀다는 것과 사용자들이 본인들이 좋아하는 뮤지션들을 접하기 힘들다는 문제점을 해결하기 위해 Win:G 플랫폼을 기획했습니다. 
 
-
+<br>
 
 
 
@@ -29,6 +29,7 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 그리고 좋은 음악이 있지만 열악한 음악 환경 때문에 음반 제작이 힘든 뮤지션들은 후원 서비스를 통해 후원을 받을 수 있으며, 뮤지션별 공연 날짜 및 공연 정보 확인이 가능합니다. Win:G는 뮤지션과 사용자들의 즐거운 놀이터를 목표로 합니다.
 
 
+<br>
 
 
 
@@ -41,6 +42,7 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 | 이민기 | Back-End     | Front-End    | User Service                  |
 | 탁성건 | Back-End     | Front-End    | Support Service, Live Service |
 
+<br>
 
 
 ## 기술 스택
@@ -51,6 +53,7 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 |   React    |  Node.js   | mongoDB  | Docker Swarm |                                                              | [Jira](https://wingproject.atlassian.net/jira/software/projects/WP/boards/1/roadmap) |
 
 
+<br>
 
 
 
@@ -64,6 +67,7 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 | Open API  |  Google Login API  |      React      |   YouTube Data v3   | Kakao Map  |  I'mport   |
 |    ETC    | GCP - SQL Instance | AWS RDS, AWS S3 |      Socket.io      |            |            |
 
+<br>
 
 
 ## 서비스 특징
@@ -72,18 +76,26 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 - Restful API 
 
   
+<br>
 
 
 
 ## 로드맵
 
+<br>
+
+
 ![image-20210220192308576](images/image-20210220192308576.png)
 
 
+<br>
 
 
 
 ## Monolithic to Microservice Migration
+
+<br>
+
 
 ![image-20210220192410049](images/image-20210220192410049.png)
 
@@ -93,15 +105,24 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 ## **Microservice** **Architecture & DevOps Pipeline**
 
+<br>
+
+
 ![image-20210220192432936](images/image-20210220192432936.png)
 
 
+<br>
 
 
 
 ## 서비스 흐름도
 
+<br>
+
+
 #### 유저 로그인 서비스
+
+<br>
 
 ![image-20210220192447250](images/image-20210220192447250.png)
 
@@ -113,6 +134,8 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 #### 스트리밍 서비스
 
+<br>
+
 ![image-20210220192512461](images/image-20210220192512461.png)
 
 
@@ -122,6 +145,8 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 
 #### 후원 서비스
+
+<br>
 
 ![image-20210220192538580](images/image-20210220192538580.png)
 
@@ -133,6 +158,8 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 #### 라이브 & 채팅 서비스
 
+<br>
+
 ![image-20210220192556537](images/image-20210220192556537.png)
 
 
@@ -143,9 +170,13 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 
 #### 콘서트 서비스
 
+<br>
+
+
 ![image-20210220192611772](images/image-20210220192611772.png)
 
 
+<br>
 
 ## 발표 및 시연 영상
 
@@ -156,6 +187,7 @@ Win:G는 인디 뮤지션과 대중들의 만남의 장을 만드는 것을 목�
 #### [발표 자료](https://drive.google.com/file/d/1oiEn9oTnthmn2k0WdcGBAOR_HgqIo5HC/view?usp=sharing)
 
 
+<br>
 
 
 
